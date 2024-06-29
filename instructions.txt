@@ -1,0 +1,15 @@
+Hi! This exercise will help you reinforce your git and terminal skills. 
+
+
+Clone this repo into your a* folder by:
+- navigate to your desktop then a-star folder
+- once in the folder, use pwd to make sure you are in the right place
+- run git clone `url` and replace `url` with this repo's link
+
+
+Once you have the repo set up on your local computer:
+- add a file in the terminal using touch (yourname).txt, add whatever you want in the file and then 
+- git add .
+- git commit -m "this is my first commit"
+- git push
+
